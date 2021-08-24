@@ -2,7 +2,7 @@
 This is a text editor to work with .txt files and edit them
 
 * TECHNOLOGIES USED IN THIS PROJECT:
-      This application uses a GUI built in Python mainly with tkinter, making use of its widgets and tools such as colorchooser    
+      This application is a GUI built in Python mainly with tkinter, making use of its widgets and tools such as colorchooser    
       (colorchooser.askcolor ()), messagebox (messagebox.askyesorno (), messagebox.showerror (), messagebox.showinfo ( )), font (font.Font ()), 
       filedialog (filedialog.akopenfilename () or filedialog.asksaveasfilename ()), widgets: ScrolledText, Menu's ...
       It is based on a simple window, from which there is a Menu and a ScrolledText. As for the Menu (Includes "File", "Edit", "Format", 
