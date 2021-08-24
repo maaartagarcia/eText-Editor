@@ -25,7 +25,7 @@ This is a text editor to work with .txt files and edit them
       To use eText it is necessary to have Python installed on your device, it is as simple as grouping and downloading all the files, executing       in this case main.py.
 
       / * DISCLAIMER * /
-      This application is in trial version, some of the errors it has is that some formatting options such as "bold" or "italic" are not saved in the files when using "Save As" or "Save", in addition, you cannot put the text in "bold" and at the same time change the "size" of the text (I think it has to do with the use of tags). Finally, I have tried to create a single .exe with the whole app to make it easier to run and reach more people, using pyinstaller and auto-py-to-exe, but my device does not allow it and identifies my app as a virus. If you have any advice or know solutions to these problems, do not hesitate to contact me, it is of great help since I am                       starting. Thank you.
+      This application is in trial version, some of the errors it has is that some formatting options such as "bold" or "italic" are not saved in the files when using "Save As" or "Save", in addition, you cannot put the text in "bold" and at the same time change the "size" of the text (I think it has to do with the use of tags). Finally, I have tried to create a single .exe with the whole app to make it easier to run and reach more people, using pyinstaller and auto-py-to-exe, but my device does not allow it and identifies my app as a virus. If you have any advice or know solutions to these problems, do not hesitate to contact me, it is of great help since I am starting. Thank you.
        / * END * /
 
 FILE: (Submenus can be detached or booted)
