@@ -9,17 +9,17 @@ This is a text editor to work with .txt files and edit them
       "Help"), each submenu is in turn a menu that descends from the main one, and that contains options such as "Open", "Save", " Save As "... 
       in the case of" File ".
       
-      In addition, most of the utilities are accessible by clicking on the options (command activates the corresponding functions) or by
-      keyboard with shortcuts of all kinds. 
+ In addition, most of the utilities are accessible by clicking on the options (command activates the corresponding functions) or by
+ keyboard with shortcuts of all kinds. 
       
-      At a conceptual level, the editor elements are thought of as classes, "File", "Edit", "Format" and "Help" are classes whose instances act 
-      as methods (Submenus options) and have attributes (Elements such as ScrolledText, which the instances of the classes require to make 
-      changes to the text box) 
+ At a conceptual level, the editor elements are thought of as classes, "File", "Edit", "Format" and "Help" are classes whose instances act 
+ as methods (Submenus options) and have attributes (Elements such as ScrolledText, which the instances of the classes require to make 
+ changes to the text box) 
       
-      Finally, it is worth noting the combined use of filedialog and messagebox, which, through methods such as messagebox.askyesorno (), 
-      messagebox.showerror (), messagebox.showinfo (), allow us to capture errors that occur when the user initiates the by action example 
-      "Open", but finally it does not finish it, and thus indicate when the processes have finished successfully or not. For his part, the user 
-      indicates the paths to save or open files with the file explorer thanks to filedialog.akopenfilename () or filedialog.asksaveasfilename ()
+  Finally, it is worth noting the combined use of filedialog and messagebox, which, through methods such as messagebox.askyesorno (), 
+  messagebox.showerror (), messagebox.showinfo (), allow us to capture errors that occur when the user initiates the by action example 
+  "Open", but finally it does not finish it, and thus indicate when the processes have finished successfully or not. For his part, the user 
+  indicates the paths to save or open files with the file explorer thanks to filedialog.akopenfilename () or filedialog.asksaveasfilename ()
 
 * INSTRUCTIONS:
       To use eText it is necessary to have Python installed on your device, it is as simple as grouping and downloading all the files, executing       in this case main.py.
